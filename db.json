@@ -1,0 +1,16 @@
+{
+  "chat": [
+    {
+      "author": "author_1",
+      "text": "some text",
+      "time": "21:59",
+      "id": 1
+    },
+    {
+      "author": "author_2",
+      "text": "another text",
+      "time": "22:00",
+      "id": 2
+    }
+  ]
+}
